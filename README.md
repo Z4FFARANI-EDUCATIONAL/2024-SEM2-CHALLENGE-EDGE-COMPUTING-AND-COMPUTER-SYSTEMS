@@ -1,4 +1,4 @@
-![banner](./assets/banner-site.png)
+![banner](./assets/banner.png)
 
 # Formula E-mmersive · Edge Computing & Computer Systems
 
@@ -35,6 +35,7 @@ O sistema é estruturado em três pilares:
 
 ## Prévia
 
+![site](./assets/banner-site.png)
 ![canal IoT](./assets/banner-canal-iot.png)
 ![simulador](./assets/banner-simulador.png)
 
